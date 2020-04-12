@@ -1,5 +1,5 @@
 {
-	"name": "Jasneljuillet09",
+	"name": "Jasnel Juillet",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,6 +12,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/JasnelJuillet09/boilerplate-npm"
 	}
 }
